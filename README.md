@@ -23,8 +23,8 @@ This is a QR Code Component
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/iamkishoremahto/gr_code_component)
+- Live Site URL: [live site URL here](https://iamkishoremahto.github.io/gr_code_component/)
 
 ## My process
 
